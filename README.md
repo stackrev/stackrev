@@ -1,14 +1,7 @@
 <h3>A Full-stack web/mobile Developer</h3>
 
 <p align="left">
-Hi there! I have <br/>
-📌 6+ years of proven professional experience in full-stack web/mobile development. <br />
-📌 As a full-stack dev I am always happy to help the customer to improve the product from both sides - UI/UX and functionality. <br />
-📌 My most outstanding qualities are responsibility, perseverance, attention to details, good communication skills, ability to solve problems and love to learn new things. <br />
-📌 My mind is always open to new knowledge, better solutions, modern approaches and challenges. <br />
-
 Feel free to contact here... 
-
 </p>
 
 <div>
