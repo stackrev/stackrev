@@ -7,7 +7,7 @@ Hi there! I have <br/>
 📌 My most outstanding qualities are responsibility, perseverance, attention to details, good communication skills, ability to solve problems and love to learn new things. <br />
 📌 My mind is always open to new knowledge, better solutions, modern approaches and challenges. <br />
 
-Feel free to contact here....
+Feel free to contact here...
 
 </p>
 
